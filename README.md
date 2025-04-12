@@ -5,7 +5,8 @@ FlightScribe is a realtime application were users can Query and get information 
 
 A robust and user-friendly application that provides **real-time flight information** by integrating with the [AeroDataBox API](https://rapidapi.com/aedbx-aedbx/api/aerodatabox). Designed for high reliability, the system includes a **fallback mechanism** that uses a mock database when API requests fail, ensuring consistent availability of flight data.
 
----
+![Home Page Screenshot](./HomePage.jpeg)
+
 
 ## 📌 Features
 
